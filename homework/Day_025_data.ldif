@@ -1,0 +1,6 @@
+dn: mail=alice@example.com
+cn: Alice Alison
+mail: alice@example.com
+objectclass: top
+objectclass: person
+
